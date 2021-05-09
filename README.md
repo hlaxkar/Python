@@ -1,2 +1,2 @@
 # Python
- Python application im building while learning 
+ Python application im building while learning from the Udemy Course 
