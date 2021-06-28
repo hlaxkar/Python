@@ -1,2 +1,2 @@
 # Python
- Python application im building while learning from the Udemy Course 
+ Python applications im building while learning from the Udemy Course 
